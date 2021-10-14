@@ -20,7 +20,7 @@ export default function Profile() {
                     width="100%"
                     height="400px"
                     src="https://www.youtube-nocookie.com/embed/tXL4ZRaQkFg?autoplay=1"
-                    title="Profil MTs Muhammadiyah 4 Jetis"
+                    title="Profil MA Muhammadiyah 3 Jetis"
                     frameborder="0"
                   ></iframe>
                 </div>

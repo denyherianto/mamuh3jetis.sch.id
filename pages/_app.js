@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>MTs Muhammadiyah 4 Jetis Ponorogo</title>
+        <title>MA Muhammadiyah 3 Jetis Ponorogo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

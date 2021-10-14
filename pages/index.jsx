@@ -56,7 +56,7 @@ export default function Home({ articles }) {
                     Keenan Adinata Damien Herianto
                   </p>
                   <p className="text-md mb-8">
-                    KETUA OSIS MTs Muhammadiyah 4 Jetis Ponorogo
+                    KETUA OSIS MA Muhammadiyah 3 Jetis Ponorogo
                   </p>
                 </div>
                 <div className="col-span-6 text-right">
@@ -86,7 +86,7 @@ export default function Home({ articles }) {
                   <p className="text-lg mb-8 pr-0 md:pr-8">
                     Bukan hanya sekedar nilai,{' '}
                     <span className="font-bold">
-                      MTs Muhammadiyah 4 Jetis Ponorogo
+                      MA Muhammadiyah 3 Jetis Ponorogo
                     </span>{' '}
                     fokus dalam membangun pribadi siswa dengan kecakapan yang
                     lebih luas.
@@ -149,7 +149,7 @@ export default function Home({ articles }) {
                     Kontak Kami
                   </h1>
                   <h3 className="text-xl font-bold mb-8">
-                    MTS MUHAMMADIYAH 4 JETIS PONOROGO
+                    MA MUHAMMADIYAH 4 JETIS PONOROGO
                   </h3>
                   <p className="text-lg mb-8">
                     Jl S. Sukowati No. 180
