@@ -149,7 +149,7 @@ export default function Home({ articles }) {
                     Kontak Kami
                   </h1>
                   <h3 className="text-xl font-bold mb-8">
-                    MA MUHAMMADIYAH 4 JETIS PONOROGO
+                    MA MUHAMMADIYAH 3 JETIS PONOROGO
                   </h3>
                   <p className="text-lg mb-8">
                     Jl S. Sukowati No. 180
