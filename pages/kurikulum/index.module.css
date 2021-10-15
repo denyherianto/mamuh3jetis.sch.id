@@ -1,14 +1,13 @@
-.ProfileSectionAbout,
-.ProfileSectionVision,
-.ProfileSectionIntro {
-  @apply relative max-w-7xl w-full my-10;
+.CurriculumSectionAbout,
+.CurriculumSectionVision {
+  @apply relative max-w-7xl w-full h-screen my-10;
 }
 
-.ProfileSectionAbout {
+.CurriculumSectionAbout {
   @apply mt-32;
 }
 
-.ProfileSectionAbout::before {
+.CurriculumSectionAbout::before {
   width: 70%;
   position: absolute;
   right: 0;
@@ -21,7 +20,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-  .ProfileSectionAbout::before {
+  .CurriculumSectionAbout::before {
     width: 100%;
   }
 }

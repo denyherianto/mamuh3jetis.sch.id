@@ -10,7 +10,7 @@ import logoPicture from '@/public/logo.png'
 
 const navigation = [
   { name: 'PROFIL', href: '/profil', current: true },
-  { name: 'KURIKULUM', href: '#', current: false },
+  { name: 'KURIKULUM', href: '/kurikulum', current: false },
   { name: 'PRESTASI', href: '#', current: false },
   // { name: 'BERITA', href: '/artikel', current: false },
   { name: 'GALERI', href: '/galeri', current: false },
