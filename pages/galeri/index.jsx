@@ -2,7 +2,7 @@ import Masonry from "react-responsive-masonry"
 
 import { Layout } from '@/components/Layout'
 
-const images = Array(16)
+const images = Array(29)
   .fill(0)
   .map((_, i) => `/gallery/gallery (${i + 1}).jpg`)
 
