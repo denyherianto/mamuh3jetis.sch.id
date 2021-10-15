@@ -11,7 +11,7 @@ import logoPicture from '@/public/logo.png'
 const navigation = [
   { name: 'PROFIL', href: '/profil', current: true },
   { name: 'KURIKULUM', href: '/kurikulum', current: false },
-  { name: 'PRESTASI', href: '#', current: false },
+  // { name: 'PRESTASI', href: '#', current: false },
   // { name: 'BERITA', href: '/artikel', current: false },
   { name: 'GALERI', href: '/galeri', current: false },
   { name: 'KONTAK', href: '/#contact', current: false },
@@ -76,12 +76,12 @@ export function Navbar() {
                               {item.name}
                             </a>
                           ))}
-                          <a
+                          {/* <a
                             href="#"
                             className="w-full flex items-center justify-center px-8 py-2 border border-transparent text-sm font-medium text-white bg-transparent hover:bg-white hover:text-black border-white border-solid"
                           >
                             PPDB
-                          </a>
+                          </a> */}
                         </div>
                       </div>
                     </div>
